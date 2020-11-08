@@ -1,0 +1,13 @@
+C:\Users\ocav\source\repos\consola_parcial\consola_parcial\bin\Debug\netcoreapp3.1\consola_parcial.exe
+C:\Users\ocav\source\repos\consola_parcial\consola_parcial\bin\Debug\netcoreapp3.1\consola_parcial.deps.json
+C:\Users\ocav\source\repos\consola_parcial\consola_parcial\bin\Debug\netcoreapp3.1\consola_parcial.runtimeconfig.json
+C:\Users\ocav\source\repos\consola_parcial\consola_parcial\bin\Debug\netcoreapp3.1\consola_parcial.runtimeconfig.dev.json
+C:\Users\ocav\source\repos\consola_parcial\consola_parcial\bin\Debug\netcoreapp3.1\consola_parcial.dll
+C:\Users\ocav\source\repos\consola_parcial\consola_parcial\bin\Debug\netcoreapp3.1\consola_parcial.pdb
+C:\Users\ocav\source\repos\consola_parcial\consola_parcial\obj\Debug\netcoreapp3.1\consola_parcial.csprojAssemblyReference.cache
+C:\Users\ocav\source\repos\consola_parcial\consola_parcial\obj\Debug\netcoreapp3.1\consola_parcial.AssemblyInfoInputs.cache
+C:\Users\ocav\source\repos\consola_parcial\consola_parcial\obj\Debug\netcoreapp3.1\consola_parcial.AssemblyInfo.cs
+C:\Users\ocav\source\repos\consola_parcial\consola_parcial\obj\Debug\netcoreapp3.1\consola_parcial.csproj.CoreCompileInputs.cache
+C:\Users\ocav\source\repos\consola_parcial\consola_parcial\obj\Debug\netcoreapp3.1\consola_parcial.dll
+C:\Users\ocav\source\repos\consola_parcial\consola_parcial\obj\Debug\netcoreapp3.1\consola_parcial.pdb
+C:\Users\ocav\source\repos\consola_parcial\consola_parcial\obj\Debug\netcoreapp3.1\consola_parcial.genruntimeconfig.cache
